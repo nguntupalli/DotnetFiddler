@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SpecFlowFiddler\\Specflow\\SpecflowFiddlerTests\\SpecflowFiddlerTests.csproj": {}
+    "E:\\FinalTests\\SpecflowFiddlerTests\\SpecflowFiddlerTests.csproj": {}
   },
   "projects": {
-    "E:\\SpecFlowFiddler\\Specflow\\SpecflowFiddlerTests\\SpecflowFiddlerTests.csproj": {
+    "E:\\FinalTests\\SpecflowFiddlerTests\\SpecflowFiddlerTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SpecFlowFiddler\\Specflow\\SpecflowFiddlerTests\\SpecflowFiddlerTests.csproj",
+        "projectUniqueName": "E:\\FinalTests\\SpecflowFiddlerTests\\SpecflowFiddlerTests.csproj",
         "projectName": "SpecflowFiddlerTests",
-        "projectPath": "E:\\SpecFlowFiddler\\Specflow\\SpecflowFiddlerTests\\SpecflowFiddlerTests.csproj",
+        "projectPath": "E:\\FinalTests\\SpecflowFiddlerTests\\SpecflowFiddlerTests.csproj",
         "packagesPath": "C:\\Users\\Neelima Guntupalli\\.nuget\\packages\\",
-        "outputPath": "E:\\SpecFlowFiddler\\Specflow\\SpecflowFiddlerTests\\obj\\",
+        "outputPath": "E:\\FinalTests\\SpecflowFiddlerTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Neelima Guntupalli\\AppData\\Roaming\\NuGet\\NuGet.Config",
