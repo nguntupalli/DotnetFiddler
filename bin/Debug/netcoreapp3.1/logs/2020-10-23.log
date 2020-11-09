@@ -1,0 +1,11 @@
+2020-10-23 21:24:02.2598 INFO Opened Url=>https://dotnetfiddle.net/
+2020-10-23 21:24:09.1344 INFO Run time stats before Clicking Run button=>9:24:03 pm
+2020-10-23 21:24:09.1423 INFO Run time seconds value before Clicking Run button=>03
+2020-10-23 21:24:10.3365 INFO Run time stats after Clicking Run button=>9:24:03 pm
+2020-10-23 21:24:10.3422 INFO Run time seconds value after Clicking Run button=>03
+2020-10-23 21:32:06.0537 INFO Opened Url=>https://dotnetfiddle.net/
+2020-10-23 21:32:15.4612 INFO Run time stats before Clicking Run button=>9:32:06 pm
+2020-10-23 21:32:15.4690 INFO Run time seconds value before Clicking Run button=>06
+2020-10-23 21:32:15.6587 INFO Run time stats after Clicking Run button=>9:32:06 pm
+2020-10-23 21:32:15.6587 INFO Run time seconds value after Clicking Run button=>06
+2020-10-23 21:32:15.6740 INFO BeforeSeconds=>06&AfterSeconds=>06 are matching
