@@ -18,4 +18,4 @@ For testing the Dotnetfiddler page the following technologies were used:
 
 ### Test Results
 
-https://user-images.githubusercontent.com/48386400/98528189-e005ec00-2273-11eb-97b5-4319e885659c.png
+<img src="https://user-images.githubusercontent.com/48386400/98528189-e005ec00-2273-11eb-97b5-4319e885659c.png">
