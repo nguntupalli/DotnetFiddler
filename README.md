@@ -1,18 +1,20 @@
-# IHS-Markit
+# DotNet Fiddler
 
 This repository contains Specflow test framework created for testing Dotnet Fiddler page.
 
-Technology used:
-Language: C#
-Automation Tool: Selenium webdriver
+  - Type some Markdown on the left
+  - See HTML in the right
+  - Magic
 
-Features tested: CheckNugetPackages.feature & RunDotNetFiddle.feature
+# Features Tested
 
+### Tech
 
+For testing the Dotnetfiddler page the following technologies were used:
 
-Test Results: LivingDoc.html
+* [Test Framework] - Specflow
+* [Coding language] - C#
+* [Automation tool] - Selenium Webdriver
 
-
-
-
+### Test Results
 
