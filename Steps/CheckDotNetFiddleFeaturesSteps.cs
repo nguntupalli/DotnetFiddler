@@ -3,6 +3,7 @@ using TechTalk.SpecFlow;
 using System.Windows.Forms;
 using OpenQA.Selenium.Remote;
 using SpecflowFiddlerTests.Pages;
+using System;
 
 namespace SpecflowFiddlerTests.Steps
 {
